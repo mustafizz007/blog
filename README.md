@@ -54,4 +54,31 @@ This is a modern and dynamic platform for bloggers to write, share, and engage. 
     cd client  
     npm start  
     ```  
-3. Open your browser and navigate to `http://localhost:3000`. 🎉  
+3. Open your browser and navigate to `http://localhost:3000`. 🎉
+
+## Here are some Glimpses of our website  
+
+### Home Page  
+<img src="https://github.com/user-attachments/assets/0e7be189-b965-401b-9f26-7fab3db4d0cb" width="500" />
+
+### Login Page  
+<img src="https://github.com/user-attachments/assets/42f7bd0c-8c81-4d00-970b-f4e1e0f2f234" width="500" />
+
+### SignUp Page  
+<img src="https://github.com/user-attachments/assets/a2777051-a63d-4cf6-a1b5-c4f5f02222ac" width="500" />
+
+### Upload A Blog  
+<img src="https://github.com/user-attachments/assets/c94bb850-cfb5-4e03-a64d-6c6eff0fb21e" width="500" />
+
+### After clicking a Blog  
+<img src="https://github.com/user-attachments/assets/ed5d1c2e-4edc-448f-bd4a-3661ad7b9dae" width="500" />
+
+### Filtering Blogs  
+<img src="https://github.com/user-attachments/assets/5baa2bd1-b975-4e05-932b-d0020e3f4503" width="500" />
+
+### Scheduling Page  
+<img src="https://github.com/user-attachments/assets/b3a92224-e1ff-4890-baba-4a5d35944b1c" width="500" />
+
+
+
+
