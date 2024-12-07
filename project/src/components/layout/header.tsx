@@ -1,10 +1,14 @@
 import { Pen, User } from "lucide-react";
-import { Link } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 import { useAuthStore } from "../../store";
 import { Button } from "../ui";
 
 export function Header() {
   const { isAuthenticated } = useAuthStore();
+  const navigate = useNavigate()
+  const logout =()=>{
+    navigate('/signin')
+}
 
   return (
     <header className="sticky top-0 z-50 w-full border-b bg-white">
@@ -22,9 +26,21 @@ export function Header() {
                   Write
                 </Link>
               </Button>
-              <Button variant="ghost">
+              {/* <Button
+              onClick={logout}
+              
+              variant="ghost">
+
                 <User className="mr-2 h-4 w-4" />
+              </Button> */}
+              <Button
+               onClick={() => (window.location.href = "/login")}
+               variant="ghost"
+              >
+              <User className="mr-2 h-4 w-4" />
               </Button>
+
+
             </>
           ) : (
             <>
