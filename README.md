@@ -33,7 +33,7 @@ This is a modern and dynamic platform for bloggers to write, share, and engage. 
     ```bash  
     git clone (https://github.com/mustafizz007/blog)
     ```  
-2. Navigate to the project directory:  
+2. Navigate to the backend directory:  
     ```bash  
     cd server  
     ```  
@@ -42,7 +42,12 @@ This is a modern and dynamic platform for bloggers to write, share, and engage. 
     npm i   
     npm run dev 
     ```
-4. Install dependencies for the frontend & then run:  
+4. Navigate to the forntend directory:  
+    ```bash
+    cd ../
+    cd project 
+    ```  
+5. Install dependencies for the frontend & then run:  
     ```bash  
     npm i   
     npm run dev 
