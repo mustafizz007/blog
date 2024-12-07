@@ -1,6 +1,8 @@
 # Modern Blog- Chronicle Your Moments, Inspire the World.
 ## Welcome to Modern Blog! 🎉
-"A place where your stories come to life. Share your memories, daily moments, and inspire others with your unique perspective. Start blogging today and connect with a community that values your journey!"
+"A place where your stories come to life. Share your memories, daily moments, and inspire others with your unique perspective. Start blogging today and connect with a community that values your journey!"  
+
+![home](https://github.com/user-attachments/assets/0e7be189-b965-401b-9f26-7fab3db4d0cb)
 
 ## 🌟 Overview
 This is a modern and dynamic platform for bloggers to write, share, and engage. Built with React.js and a powerful backend, it offers all the tools needed for a seamless blogging experience. 🚀
