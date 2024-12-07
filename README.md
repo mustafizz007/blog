@@ -80,7 +80,7 @@ Open your browser and navigate to `http://localhost:5173`. 🎉
 <img src="https://github.com/user-attachments/assets/b3a92224-e1ff-4890-baba-4a5d35944b1c" width="500" />
 
 ## possible features
-schedule post for later & saving as a draft
+schedule post for later & saving as a draft  
 update & delete blog operation for individual editor of their post
 
 
