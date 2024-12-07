@@ -24,4 +24,32 @@ This is a modern and dynamic platform for bloggers to write, share, and engage. 
 ### 🔧 Backend  
 - 🌐 Node.js with Express.js  
 - 🗄️ MongoDB or PostgreSQL for the database  
-- 🛡️ JWT (JSON Web Tokens) for authentication  
+- 🛡️ JWT (JSON Web Tokens) for authentication
+
+ ## 📦 **Installation**  
+1. Clone this repository:  
+    ```bash  
+    git clone https://github.com/your-username/blogging-website.git  
+    ```  
+2. Navigate to the project directory:  
+    ```bash  
+    cd blogging-website  
+    ```  
+3. Install dependencies for the frontend and backend:  
+    ```bash  
+    npm install  
+    cd client  
+    npm install  
+    ```  
+
+## 🚀 **Running the Project**  
+1. Start the backend server:  
+    ```bash  
+    npm run server  
+    ```  
+2. Start the frontend development server:  
+    ```bash  
+    cd client  
+    npm start  
+    ```  
+3. Open your browser and navigate to `http://localhost:3000`. 🎉  
