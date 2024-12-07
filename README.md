@@ -31,30 +31,25 @@ This is a modern and dynamic platform for bloggers to write, share, and engage. 
  ## 📦 **Installation**  
 1. Clone this repository:  
     ```bash  
-    git clone https://github.com/your-username/blogging-website.git  
+    git clone (https://github.com/mustafizz007/blog)
     ```  
 2. Navigate to the project directory:  
     ```bash  
-    cd blogging-website  
+    cd server  
     ```  
-3. Install dependencies for the frontend and backend:  
+3. Install dependencies for the backend & then run:  
     ```bash  
-    npm install  
-    cd client  
-    npm install  
+    npm i   
+    npm run dev 
+    ```
+4. Install dependencies for the frontend & then run:  
+    ```bash  
+    npm i   
+    npm run dev 
     ```  
 
-## 🚀 **Running the Project**  
-1. Start the backend server:  
-    ```bash  
-    npm run server  
-    ```  
-2. Start the frontend development server:  
-    ```bash  
-    cd client  
-    npm start  
-    ```  
-3. Open your browser and navigate to `http://localhost:3000`. 🎉
+## 🚀 **Running the Project**   
+Open your browser and navigate to `http://localhost:5173`. 🎉
 
 ## Here are some Glimpses of our website  
 
