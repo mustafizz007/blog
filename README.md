@@ -20,13 +20,11 @@ This is a modern and dynamic platform for bloggers to write, share, and engage. 
 ### 🖼️ Frontend
 - ⚛️ React.js   
 - 🔀 React Router for navigation  
-- 🎯 Redux (or Context API) for state management  
-- 🎨 Tailwind CSS (or Bootstrap) for styling  
+- 🎨 Tailwind CSS for styling  
 
 ### 🔧 Backend  
 - 🌐 Node.js with Express.js  
-- 🗄️ MongoDB or PostgreSQL for the database  
-- 🛡️ JWT (JSON Web Tokens) for authentication
+- 🗄️ MongoDB  for the database  
 
  ## 📦 **Installation**  
 1. Clone this repository:  
