@@ -76,9 +76,12 @@ This is a modern and dynamic platform for bloggers to write, share, and engage. 
 ### Filtering Blogs  
 <img src="https://github.com/user-attachments/assets/5baa2bd1-b975-4e05-932b-d0020e3f4503" width="500" />
 
-### Scheduling Page  
+### Scheduling Post
 <img src="https://github.com/user-attachments/assets/b3a92224-e1ff-4890-baba-4a5d35944b1c" width="500" />
 
+## possible features
+schedule post for later & saving as a draft
+update & delete blog operation for individual editor of their post
 
 
 
